@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "280323_NBUY", "280323_NBUY\280323_NBUY.csproj", "{49D55FC8-2AF0-4279-8A8A-57686176BBA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "frmSinema", "..\frmSinema\frmSinema\frmSinema.csproj", "{117C963F-3D90-435C-B1E3-887C1C88805D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49D55FC8-2AF0-4279-8A8A-57686176BBA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49D55FC8-2AF0-4279-8A8A-57686176BBA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49D55FC8-2AF0-4279-8A8A-57686176BBA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49D55FC8-2AF0-4279-8A8A-57686176BBA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{117C963F-3D90-435C-B1E3-887C1C88805D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{117C963F-3D90-435C-B1E3-887C1C88805D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{117C963F-3D90-435C-B1E3-887C1C88805D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{117C963F-3D90-435C-B1E3-887C1C88805D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C80A5E36-DCE5-4732-99E4-82B2C054915A}
+	EndGlobalSection
+EndGlobal
